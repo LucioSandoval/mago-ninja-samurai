@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\bin\Debug\net7.0\mago-ninja-samurai.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\bin\Debug\net7.0\mago-ninja-samurai.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\bin\Debug\net7.0\mago-ninja-samurai.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\bin\Debug\net7.0\mago-ninja-samurai.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\bin\Debug\net7.0\mago-ninja-samurai.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\refint\mago-ninja-samurai.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\mago-ninja-samurai.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\mago-ninja-samurai\obj\Debug\net7.0\ref\mago-ninja-samurai.dll
